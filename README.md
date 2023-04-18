@@ -7,5 +7,6 @@ pip install -r requirements
 
 ## EXECUTING SCRAPER
 ```
+cd bigmario_intelligence_agency
 scrapy crawl cia
 ```
